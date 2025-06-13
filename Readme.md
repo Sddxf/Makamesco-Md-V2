@@ -2,7 +2,7 @@
 
 # MAKAMESCK-MD-V.2
 
-<h3 align="center">"..YOU WANT IT..GO FOR IT..."</h3>
+<h3 align="center">"..STAY ON TRACK EVERYONE IS..MAD..."</h3>
 
 <div align="center">
   <img src="https://files.catbox.moe/sigghy.jpg" alt="MAKAMESCO-MD-V.2 Banner" width="400" />
@@ -65,7 +65,7 @@
 
 
 <p align="center">
-  <i>I don’t chase followers. I don’t care who deploys this. I code to make MY WhatsApp dope and MY life easier. Fixing scripts till they’re flawless? That’s my joy. Then? Netflix and zero fucks given."</i>
+  <i>DEPLOY OUR BOT BOOST FOLLOWERSUSING OUR SITE I WILL ADD FEATURES."</i>
 </p>
 
 <div align="center">
