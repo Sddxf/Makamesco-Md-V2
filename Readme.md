@@ -1,11 +1,11 @@
 
 
-# DIGITEX-XMD
+# MAKAMESCK-MD-V.2
 
 <h3 align="center">"..YOU WANT IT..GO FOR IT..."</h3>
 
 <div align="center">
-  <img src="https://files.catbox.moe/g7qjxj.png" alt="DIGITEX-XMD Banner" width="400" />
+  <img src="https://files.catbox.moe/sigghy.jpg" alt="MAKAMESCO-MD-V.2 Banner" width="400" />
   
   <hr style="width: 80%; margin: 20px auto; border: 0.5px solid #333;" />
 </div>
@@ -17,14 +17,14 @@
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/Digitexmedia/DIGITEX-XMD/fork">
+      <a href="https://github.com/sesco001/Makamesco-md-v.2/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
     <td align="center" width="50%">
       <h3>Pair Session</h3>
       <p>Link your session ID to start using</p>
-      <a href="https://digitex-xmd-session-site-working.onrender.com">
+      <a href="https://makamesco-md-code.onrender.com/">
         <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge" alt="Pair Session">
       </a>
     </td>
