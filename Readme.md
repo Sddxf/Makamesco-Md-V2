@@ -17,7 +17,7 @@
     <td align="center" width="50%">
       <h3>Fork Repository</h3>
       <p>Customize the bot for your needs</p>
-      <a href="https://github.com/sesco001/Makamesco-md-v.2/fork">
+      <a href="https://github.com/sesco001/Makamesco-Md-V2/fork">
         <img src="https://img.shields.io/badge/FORK-purple?style=for-the-badge" alt="Fork Button">
       </a>
     </td>
@@ -49,14 +49,14 @@
     <td align="center" width="50%">
       <h3>Deploy on render</h3>
       <p>DEPLOY RENDER</p>
-      <a href="https://apis-digitex.vercel.app/">
-        <img src="https://img.shields.io/badge/APIs-blue?style=for-the-badge" alt="DIGITEX APIs">
+      <a href="https://render.com/">
+        <img src="https://img.shields.io/badge/Render-blue?style=for-the-badge" alt="DIGITEX APIs">
       </a>
     </td>
     <td align="center" width="50%">
       <h3>Deploy</h3>
       <p>Deploy to your preferred platform</p>
-      <a href='https://dashboard.heroku.com/new?template=https://github.com/sesco001/Makamesco-md-v.2?tab=readme-ov-file' target="_blank"> <img title="DEPLOY DIGITEX-XMD BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+      <a href='https://dashboard.heroku.com/new?template=https://github.com/sesco001/Makamesco-Md-V2?tab=readme-ov-file' target="_blank"> <img title="DEPLOY DIGITEX-XMD BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
       </a>
     </td>
   </tr>
